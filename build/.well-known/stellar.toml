@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GAWMQNWXXV2UTKGV6ARZLBLR4PBWSFGHRFBRII2ADBRBXSG4I6YM7YC6"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="angryshiba"
-ORG_URL="https://www.angryshiba.org"
-ORG_DESCRIPTION=""
-ORG_TWITTER="@angryshiba"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="angryshiba@gmail.com"
+ORG_NAME="sushitoken"
+ORG_URL="https://www.sushitoken.org"
+ORG_DESCRIPTION="Sushi, a staple rice dish of Japanese cuisine, consisting of cooked rice flavoured with vinegar and a variety of vegetable, egg, or raw seafood garnishes and served cold. Sushi has gained popularity in the United States and elsewhere."
+ORG_TWITTER="@sushitoken"
+ORG_LOGO="https://i.ibb.co/dmSvKBJ/sushitoken.jpg"
+ORG_OFFICIAL_EMAIL="sushitoken@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="SushiToken"
+issuer="GAWMQNWXXV2UTKGV6ARZLBLR4PBWSFGHRFBRII2ADBRBXSG4I6YM7YC6"
 anchor_asset="false"
-name="Angry Shiba"
-desc="LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="Sushi Token"
+desc="Sushi, a staple rice dish of Japanese cuisine, consisting of cooked rice flavoured with vinegar and a variety of vegetable, egg, or raw seafood garnishes and served cold. Sushi has gained popularity in the United States and elsewhere."
+conditions="Sushi has gained popularity in the United States and elsewhere."
+image="https://i.ibb.co/dmSvKBJ/sushitoken.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#SushiToken was issued using the open and inclusive Stellar blockchain network.
